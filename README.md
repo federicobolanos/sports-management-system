@@ -138,20 +138,3 @@ sports-management-system/
 | POST   | `/api/reservations`      | Crear una nueva reserva      |
 | PUT    | `/api/reservations/:id`  | Actualizar una reserva       |
 | DELETE | `/api/reservations/:id`  | Eliminar una reserva         |
-
----
-
-## **Próximas Mejoras**
-1. **Roles de Usuario:**
-   - Agregar roles (Administrador, Usuario).
-2. **Validaciones Avanzadas:**
-   - Prevenir reservas en horarios ya ocupados.
-3. **Despliegue:**
-   - Subir la aplicación a servicios como **Vercel** (Frontend) y **Render** (Backend).
-4. **Notificaciones:**
-   - Enviar correos electrónicos al crear o modificar una reserva.
-
----
-
-## **Contribuciones**
-Las contribuciones son bienvenidas. Si tienes sugerencias o mejoras, siéntete libre de abrir un issue o hacer un pull request.
